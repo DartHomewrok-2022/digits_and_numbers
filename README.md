@@ -6,7 +6,7 @@ Automated grading of homework assignments and tests
 - solve the task
 - commit with proper message
 
-# Problems
+# Tasks
 ## task01
 
   two-digits number is given, Find the first digit of the number.
