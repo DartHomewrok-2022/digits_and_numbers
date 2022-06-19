@@ -1,9 +1,11 @@
-void main() {
-  '''
-  Four-digits number is given, Find the product of the four digits
+/*
+  Create function func 
+  Create function argument 'number' of  type int
+  Four-digits number is given, 
+  Find the multiple of the four digits
   Args:
-      none
+      number
   Returns:
       return answer
-  ''';
-}
+  */
+void main() {}

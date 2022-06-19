@@ -1,9 +1,11 @@
-void main() {
-  '''
-  Two-digits numbers is given, Find the product digit of the number
+/*
+  Create function func
+  Create function argument 'number' of type int
+  Two-digits numbers is given, 
+  Find the multiple digit of the number
   Args:
-      none
+      number
   Returns:
       return answer
-  ''';
-}
+  */
+void main() {}

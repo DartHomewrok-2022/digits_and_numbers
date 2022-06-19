@@ -68,7 +68,7 @@ Output: 9
 
 ## task04
 
-  Two-digits numbers is given, Find the product digit of the number.
+  Two-digits numbers is given, Find the multiple digit of the number.
 
 **Example 1:**
 
@@ -191,7 +191,7 @@ Output: 20
 
 ## task10
 
-  Four-digits number is given, Find the product of the four digits
+  Four-digits number is given, Find the multiple of the four digits
 
 
 **Example 1:**

@@ -1,9 +1,11 @@
-void main() {
-  '''
-  Two-digits numbers is given, Find the difference between digit of the number
+/*
+  Create function func
+  Create function argument 'number' of type int
+  Two-digits numbers is given,
+  find the whole part of the division of two numbers
   Args:
-      none
+      number
   Returns:
       return answer
-  ''';
-}
+  */
+void main() {}
